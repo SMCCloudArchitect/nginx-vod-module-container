@@ -1,4 +1,4 @@
-nginx-vod-module-docker
+nginx-vod-module-container
 =======================
 This is a non-root user container image for Nginx VOD module 
 
