@@ -1,11 +1,12 @@
 nginx-vod-module-container
 =======================
-This is a non-root user container image for Nginx VOD module 
+This is a non-root user container image of Nginx VOD module for running on OpenShift 4.6 or above.
 
-This repository contains a Dockerfile for building nginx with [Kaltura's
+This repository contains a Dockerfile for building nginx with [Kaltura's 
 vod-module](https://github.com/kaltura/nginx-vod-module).
 
-The Dockerfile is desgined for a non-root user container image and derived from [NYTimes nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker) 
+The Dockerfile is desgined for a non-root user container image and derived 
+from [New York Times nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker) 
 
 Building locally
 ----------------
